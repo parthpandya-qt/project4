@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "https://voyageai-backend.onrender.com/api/:path*"
+      "destination": "https://voyageai-backend-yb2e.onrender.com/api/:path*"
     }
   ]
 }
