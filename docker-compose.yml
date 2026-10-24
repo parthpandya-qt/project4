@@ -1,0 +1,48 @@
+version: "3.8"
+
+services:
+  # FastAPI Backend Service
+  backend:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+    container_name: voyageai-backend
+    restart: unless-stopped
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - SUPABASE_URL=${SUPABASE_URL:-https://pdmxopkxaqelwrrbyslu.supabase.co}
+      - SUPABASE_KEY=${SUPABASE_KEY:-sb_secret_JotzNS2RJHX9f2fwReLz6g_S-37T6ED}
+      - DATABASE_URL=${DATABASE_URL:-postgresql://postgres:Parth%407566111175@db.pdmxopkxaqelwrrbyslu.supabase.co:5432/postgres}
+      - GEMINI_API_KEY=${GEMINI_API_KEY:-AQ.Ab8RN6KMiydWRIPJhAvOGQBmE5xNMpdSgk2-B8fMFlCDKMkbSA}
+    volumes:
+      - ./backend/trips_data.json:/app/trips_data.json
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/api/health"]
+      interval: 15s
+      timeout: 5s
+      retries: 3
+      start_period: 10s
+    networks:
+      - voyageai-network
+
+  # React 19 Frontend Service (Served via Nginx Reverse Proxy)
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    container_name: voyageai-frontend
+    restart: unless-stopped
+    ports:
+      - "80:80"
+      - "3000:80"
+    depends_on:
+      backend:
+        condition: service_healthy
+    networks:
+      - voyageai-network
+
+networks:
+  voyageai-network:
+    driver: bridge

@@ -37,7 +37,21 @@ Built with **React 19** frontend, **FastAPI** backend, **Google Gemini 2.5 Flash
 
 ---
 
-## 🚀 Quick Start Guide
+## 🐳 1-Command Docker Hosting
+
+You can spin up the full production stack (FastAPI backend + Nginx-powered React frontend) with a single command:
+
+```bash
+docker compose up -d --build
+```
+
+- **Web Application**: Access at `http://localhost` (or `http://localhost:3000`)
+- **FastAPI Backend**: Access at `http://localhost:8000/docs`
+- To stop the containers: `docker compose down`
+
+---
+
+## 🚀 Local Development Setup (Without Docker)
 
 ### 1. Prerequisites
 - Python 3.10+
@@ -64,6 +78,7 @@ npm install
 npm run dev
 ```
 Frontend will be live at `http://127.0.0.1:5173`.
+
 
 ---
 
