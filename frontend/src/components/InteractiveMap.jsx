@@ -20,12 +20,12 @@ export default function InteractiveMap({ activities = [], centerCoords = null, d
         zoomControl: true,
       });
 
-      // CartoDB Dark Matter / Voyager tiles for sleek modern dark styling
-      L.tileLayer("https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png", {
-        attribution: '&copy; <a href="https://carto.com/">CARTO</a>, &copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>',
+      // OpenStreetMap standard tiles (100% Free, NO API Key Required)
+      L.tileLayer("https://tile.openstreetmap.org/{z}/{x}/{y}.png", {
+        attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors',
         maxZoom: 19,
-        subdomains: "abcd",
       }).addTo(map);
+
 
       markersLayerRef.current = L.layerGroup().addTo(map);
       mapInstanceRef.current = map;
