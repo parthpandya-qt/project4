@@ -1,0 +1,1307 @@
+[
+  {
+    "id": "trip_e75818ebce",
+    "title": "Barcelona's Architectural Wonders & Culinary Delights: A Solo Explorer's Journey",
+    "destination": "Barcelona, Spain",
+    "tagline": "Unveiling Gaudi's Genius and Savoring Catalan Flavors in a Vibrant City",
+    "overview": "Embark on an enriching 2-day solo adventure through Barcelona, a city where historic charm meets modern innovation. This itinerary focuses on iconic architecture, particularly the masterpieces of Antoni Gaudi, alongside immersive culinary experiences from bustling markets to cozy tapas bars. Designed for a balanced pace, you'll discover the city's unique rhythm and vibrant culture, ensuring a memorable journey for a moderate budget.",
+    "hero_image_keyword": "Barcelona cityscape gothic quarter",
+    "hero_gradient": "linear-gradient(135deg, #1e3c72 0%, #2a5298 100%)",
+    "traveler_type": "solo",
+    "group_size": 1,
+    "travel_style": "balanced",
+    "budget_tier": "moderate",
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-17",
+    "duration_days": 2,
+    "currency": "USD",
+    "days": [
+      {
+        "day_number": 1,
+        "date": "2026-11-15",
+        "theme": "Gaudi's Grandeur & Gothic Quarter Charm",
+        "summary": "Dive into Barcelona's architectural heart, exploring Gaudi's most famous works before getting lost in the labyrinthine streets of the historic Gothic Quarter.",
+        "activities": [
+          {
+            "id": "day1-act1",
+            "time_slot": "09:00 AM - 11:30 AM",
+            "period": "morning",
+            "title": "Sagrada Familia (Interior Visit)",
+            "category": "sightseeing",
+            "description": "Begin your architectural journey with a pre-booked visit to Antoni Gaudi's unfinished masterpiece, Sagrada Familia. Marvel at its intricate facades, towering spires, and stunning stained glass windows that flood the interior with kaleidoscopic light.",
+            "location_name": "Basílica de la Sagrada Família",
+            "coordinates": {
+              "lat": 41.4036,
+              "lng": 2.1744
+            },
+            "estimated_cost": 35.0,
+            "currency": "USD",
+            "insider_tip": "Book your tickets online well in advance (at least 2-3 weeks) to secure your preferred time slot and avoid long queues. Consider an audio guide for deeper insights.",
+            "duration_mins": 150,
+            "is_booked": false
+          },
+          {
+            "id": "day1-act2",
+            "time_slot": "12:00 PM - 01:00 PM",
+            "period": "lunch",
+            "title": "Lunch in Eixample",
+            "category": "dining",
+            "description": "Enjoy a casual Spanish lunch at a local eatery in the Eixample district, near Sagrada Familia. Look for 'Menu del Día' for a great value multi-course meal.",
+            "location_name": "Local Restaurant in Eixample",
+            "coordinates": {
+              "lat": 41.398,
+              "lng": 2.171
+            },
+            "estimated_cost": 20.0,
+            "currency": "USD",
+            "insider_tip": "Venture a block or two away from the main tourist streets to find more authentic and affordably priced options.",
+            "duration_mins": 60,
+            "is_booked": false
+          },
+          {
+            "id": "day1-act3",
+            "time_slot": "01:30 PM - 03:30 PM",
+            "period": "afternoon",
+            "title": "Park Güell Exploration",
+            "category": "sightseeing",
+            "description": "Head to Park Güell, another of Gaudi's iconic creations. Wander through the whimsical park, admiring the mosaic-covered benches, unique architecture, and panoramic views of the city. The monumental zone requires a ticket.",
+            "location_name": "Park Güell",
+            "coordinates": {
+              "lat": 41.4137,
+              "lng": 2.1522
+            },
+            "estimated_cost": 15.0,
+            "currency": "USD",
+            "insider_tip": "Pre-book tickets for the Monumental Zone online to guarantee entry. The best way to get there is often by metro to Lesseps or Vallcarca, then follow signs, or take a bus directly.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "day1-act4",
+            "time_slot": "04:30 PM - 06:00 PM",
+            "period": "afternoon",
+            "title": "Passeig de Gràcia's Architectural Gems",
+            "category": "architecture",
+            "description": "Stroll down the elegant Passeig de Gràcia, admiring the exteriors of Casa Batlló and Casa Milà (La Pedrera), two more of Gaudi's extraordinary modernist buildings. Consider a quick photo stop.",
+            "location_name": "Passeig de Gràcia",
+            "coordinates": {
+              "lat": 41.3912,
+              "lng": 2.1648
+            },
+            "estimated_cost": 0.0,
+            "currency": "USD",
+            "insider_tip": "The street itself is an open-air museum. Look up to appreciate the elaborate details of other modernist buildings and elegant shops.",
+            "duration_mins": 90,
+            "is_booked": false
+          },
+          {
+            "id": "day1-act5",
+            "time_slot": "07:30 PM - 09:00 PM",
+            "period": "evening",
+            "title": "Dinner in the Gothic Quarter",
+            "category": "dining",
+            "description": "Conclude your day with a delightful dinner in the historic and atmospheric Gothic Quarter. Explore its narrow streets and discover a traditional Catalan restaurant or a lively tapas bar.",
+            "location_name": "Gothic Quarter",
+            "coordinates": {
+              "lat": 41.3825,
+              "lng": 2.1769
+            },
+            "estimated_cost": 30.0,
+            "currency": "USD",
+            "insider_tip": "Many restaurants in the Gothic Quarter don't open for dinner until 8 PM or later. Embrace the local dining schedule and enjoy a pre-dinner vermouth.",
+            "duration_mins": 90,
+            "is_booked": false
+          }
+        ],
+        "day_budget_estimate": 80.0,
+        "transit_advice": "Utilize Barcelona's efficient metro system. Purchase a T-Casual card for 10 rides, offering excellent value. Many key sites are walkable within districts."
+      },
+      {
+        "day_number": 2,
+        "date": "2026-11-16",
+        "theme": "Market Buzz, Montjuïc Views & Local Flavors",
+        "summary": "Experience the vibrant energy of La Boqueria market, ascend to Montjuïc for breathtaking city views, and savor authentic Catalan cuisine.",
+        "activities": [
+          {
+            "id": "day2-act1",
+            "time_slot": "09:30 AM - 11:00 AM",
+            "period": "morning",
+            "title": "La Boqueria Market & Las Ramblas Stroll",
+            "category": "food & dining",
+            "description": "Immerse yourself in the sensory overload of La Boqueria Market, Barcelona's most famous food market. Sample fresh juices, fruits, and local delicacies. Afterward, take a brief stroll down the bustling Las Ramblas.",
+            "location_name": "Mercado de La Boqueria",
+            "coordinates": {
+              "lat": 41.3817,
+              "lng": 2.1722
+            },
+            "estimated_cost": 10.0,
+            "currency": "USD",
+            "insider_tip": "Go early in the morning to avoid the biggest crowds. While beautiful, Las Ramblas is very touristy; be mindful of your belongings.",
+            "duration_mins": 90,
+            "is_booked": false
+          },
+          {
+            "id": "day2-act2",
+            "time_slot": "11:30 AM - 12:00 PM",
+            "period": "transit",
+            "title": "Cable Car to Montjuïc",
+            "category": "transit",
+            "description": "Take the scenic Montjuïc Cable Car from Paral·lel metro station up to Montjuïc mountain, offering stunning aerial views of the city and port.",
+            "location_name": "Telefèric de Montjuïc",
+            "coordinates": {
+              "lat": 41.3735,
+              "lng": 2.1645
+            },
+            "estimated_cost": 15.0,
+            "currency": "USD",
+            "insider_tip": "Your T-Casual card works for the Funicular de Montjuïc from Paral·lel station. You'll then transfer to the cable car, which requires a separate ticket.",
+            "duration_mins": 30,
+            "is_booked": false
+          },
+          {
+            "id": "day2-act3",
+            "time_slot": "12:00 PM - 02:00 PM",
+            "period": "afternoon",
+            "title": "Montjuïc Castle & Panoramic Views",
+            "category": "sightseeing",
+            "description": "Explore Montjuïc Castle, a historic fortress offering commanding 360-degree views of Barcelona, the Mediterranean Sea, and the surrounding area. Enjoy the peaceful gardens and learn about its past.",
+            "location_name": "Castell de Montjuïc",
+            "coordinates": {
+              "lat": 41.3653,
+              "lng": 2.1659
+            },
+            "estimated_cost": 5.0,
+            "currency": "USD",
+            "insider_tip": "Beyond the castle, Montjuïc is home to several gardens and museums (like the Miró Foundation). Choose one if you have extra time and interest.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "day2-act4",
+            "time_slot": "02:30 PM - 03:30 PM",
+            "period": "lunch",
+            "title": "Seafood Lunch near Port/Barceloneta",
+            "category": "dining",
+            "description": "Descend from Montjuïc towards the port area and enjoy a delicious seafood lunch in Barceloneta, known for its fresh fish and paella. Savor authentic Mediterranean flavors.",
+            "location_name": "Barceloneta (restaurants near the port)",
+            "coordinates": {
+              "lat": 41.3787,
+              "lng": 2.1856
+            },
+            "estimated_cost": 30.0,
+            "currency": "USD",
+            "insider_tip": "Many restaurants offer 'paella for one' or individual seafood dishes. Always check recent reviews, as quality can vary in tourist-heavy areas.",
+            "duration_mins": 60,
+            "is_booked": false
+          },
+          {
+            "id": "day2-act5",
+            "time_slot": "04:00 PM - 05:30 PM",
+            "period": "leisure",
+            "title": "Relax at Barceloneta Beach",
+            "category": "leisure",
+            "description": "Enjoy a leisurely stroll along Barceloneta Beach. Feel the sand, listen to the waves, and take in the sea breeze, a perfect way to unwind after sightseeing.",
+            "location_name": "Barceloneta Beach",
+            "coordinates": {
+              "lat": 41.378,
+              "lng": 2.19
+            },
+            "estimated_cost": 0.0,
+            "currency": "USD",
+            "insider_tip": "Keep an eye on your belongings, especially if you set them down while relaxing. The promenade is great for people-watching.",
+            "duration_mins": 90,
+            "is_booked": false
+          },
+          {
+            "id": "day2-act6",
+            "time_slot": "07:30 PM - 09:00 PM",
+            "period": "evening",
+            "title": "Farewell Dinner in Gràcia",
+            "category": "dining",
+            "description": "Head to the charming Gràcia neighborhood for your farewell dinner. This area is known for its independent boutiques, bohemian vibe, and excellent, less touristy restaurants and squares.",
+            "location_name": "Gràcia Neighborhood",
+            "coordinates": {
+              "lat": 41.3995,
+              "lng": 2.1585
+            },
+            "estimated_cost": 35.0,
+            "currency": "USD",
+            "insider_tip": "Explore the various plazas like Plaça del Sol or Plaça de la Vila de Gràcia for vibrant evening atmosphere and numerous dining options.",
+            "duration_mins": 90,
+            "is_booked": false
+          }
+        ],
+        "day_budget_estimate": 70.0,
+        "transit_advice": "The metro will be essential for reaching Montjuïc. For the market and Gothic Quarter, walking is the best way to explore."
+      }
+    ],
+    "cost_breakdown": {
+      "accommodations": 300.0,
+      "activities_and_tickets": 100.0,
+      "food_and_dining": 200.0,
+      "local_transit": 60.0,
+      "contingency": 50.0,
+      "total_estimated": 710.0,
+      "currency": "USD"
+    },
+    "packing_list": [
+      "Comfortable walking shoes (essential!)",
+      "Layers of clothing (temperatures can vary)",
+      "Light rain jacket or umbrella (for November showers)",
+      "Small backpack for day trips",
+      "Portable power bank for phone",
+      "Universal travel adapter",
+      "Reusable water bottle",
+      "Sunscreen and sunglasses (even in November)",
+      "Scarf or light shawl (for cooler evenings or respectful entry to churches)"
+    ],
+    "local_tips": [
+      "Learn a few basic Spanish or Catalan phrases like 'Hola', 'Gracias', 'Por favor', 'Adiós'.",
+      "Be aware of pickpocketing, especially in crowded tourist areas like Las Ramblas and metro stations. Keep valuables secure.",
+      "Embrace the late dining culture; lunch is typically 1:30-3:30 PM, and dinner often starts around 8:00 PM.",
+      "Order a 'Menu del Día' for lunch; it's a great value fixed-price menu offering multiple courses.",
+      "Validate your metro/bus tickets; fines are steep if caught without a validated ticket."
+    ],
+    "weather_forecast_note": "In mid-November, Barcelona typically experiences mild, autumn weather. Daytime temperatures generally range from 12°C to 18°C (54°F to 64°F). Evenings can be cooler, dropping to around 7°C to 12°C (45°F to 54°F). There's a moderate chance of rain, so packing layers, a light rain jacket, and comfortable, water-resistant walking shoes is highly recommended.",
+    "created_at": "2026-10-24T11:36:46.414434Z",
+    "updated_at": "2026-10-24T11:36:48.208627Z",
+    "share_slug": "e1246d62"
+  },
+  {
+    "id": "scenario-3-group-bali",
+    "title": "Small Group Adventure in Bali",
+    "destination": "Bali, Indonesia",
+    "tagline": "Synchronized Group Thrills, Water Temples & Beach Sunsets",
+    "overview": "A synchronized group expedition to Bali, Indonesia for 5 travelers. Blends high-energy adventure with cultural landmarks and organized group logistics to eliminate scheduling conflicts and minimize delays.",
+    "hero_image_keyword": "bali indonesia",
+    "hero_gradient": "linear-gradient(135deg, #11998e 0%, #38ef7d 100%)",
+    "traveler_type": "group",
+    "group_size": 5,
+    "travel_style": "adventure",
+    "budget_tier": "moderate",
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-18",
+    "duration_days": 4,
+    "currency": "USD",
+    "days": [
+      {
+        "day_number": 1,
+        "date": "2026-11-15",
+        "theme": "Day 1: Arrival & Iconic Highlights",
+        "summary": "Optimized schedule balancing adventure pacing with curated dining, sightseeing, and minimal transit friction.",
+        "activities": [
+          {
+            "id": "act-1-1-bc37",
+            "time_slot": "09:00 AM - 11:30 AM",
+            "period": "morning",
+            "title": "Sunrise Quad Bike & Mount Batur Volcano Trek",
+            "category": "adventure",
+            "description": "Sunrise Quad Bike & Mount Batur Volcano Trek in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Sunrise Quad Bike & Mount Batur Volcano Trek, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.2424,
+              "lng": 115.3756
+            },
+            "estimated_cost": 45.0,
+            "currency": "USD",
+            "insider_tip": "Witness steam vents cooking eggs at summit with group breakfast.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-1-2-222f",
+            "time_slot": "12:00 PM - 02:00 PM",
+            "period": "afternoon",
+            "title": "Tegalalang Rice Terraces & Giant Valley Swing",
+            "category": "nature",
+            "description": "Tegalalang Rice Terraces & Giant Valley Swing in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Tegalalang Rice Terraces & Giant Valley Swing, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.4348,
+              "lng": 115.2798
+            },
+            "estimated_cost": 15.0,
+            "currency": "USD",
+            "insider_tip": "Great group drone shots among emerald cascading hills.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-1-3-9a8a",
+            "time_slot": "02:45 PM - 05:30 PM",
+            "period": "afternoon",
+            "title": "Ayung River White Water Rafting Experience",
+            "category": "adventure",
+            "description": "Ayung River White Water Rafting Experience in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Ayung River White Water Rafting Experience, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.487,
+              "lng": 115.234
+            },
+            "estimated_cost": 35.0,
+            "currency": "USD",
+            "insider_tip": "12km rapids navigate past hidden waterfalls and Hindu rock carvings.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-1-4-65d2",
+            "time_slot": "07:00 PM - 09:30 PM",
+            "period": "evening",
+            "title": "Tirta Empul Holy Spring Cleansing Ritual",
+            "category": "culture",
+            "description": "Tirta Empul Holy Spring Cleansing Ritual in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Tirta Empul Holy Spring Cleansing Ritual, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.415,
+              "lng": 115.315
+            },
+            "estimated_cost": 5.0,
+            "currency": "USD",
+            "insider_tip": "Rent sarongs on-site; respect temple guides during the purification shower.",
+            "duration_mins": 120,
+            "is_booked": false
+          }
+        ],
+        "day_budget_estimate": 100.0,
+        "transit_advice": "Hire a private air-conditioned van with local driver for the group (approx $45/day total), split effortlessly among all travelers."
+      },
+      {
+        "day_number": 2,
+        "date": "2026-11-16",
+        "theme": "Day 2: Immersion & Hidden Flavors",
+        "summary": "Optimized schedule balancing adventure pacing with curated dining, sightseeing, and minimal transit friction.",
+        "activities": [
+          {
+            "id": "act-2-1-1d89",
+            "time_slot": "09:00 AM - 11:30 AM",
+            "period": "morning",
+            "title": "Sunset Seafood Feast on Jimbaran Bay Sands",
+            "category": "dining",
+            "description": "Sunset Seafood Feast on Jimbaran Bay Sands in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Sunset Seafood Feast on Jimbaran Bay Sands, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.775,
+              "lng": 115.168
+            },
+            "estimated_cost": 25.0,
+            "currency": "USD",
+            "insider_tip": "Order grilled red snapper with spicy sambal matah right at the water's edge.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-2-2-e58f",
+            "time_slot": "12:00 PM - 02:00 PM",
+            "period": "afternoon",
+            "title": "Canggu & Uluwatu Cliffside Beach Club Experience",
+            "category": "leisure",
+            "description": "Canggu & Uluwatu Cliffside Beach Club Experience in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Canggu & Uluwatu Cliffside Beach Club Experience, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.829,
+              "lng": 115.084
+            },
+            "estimated_cost": 30.0,
+            "currency": "USD",
+            "insider_tip": "Reserve a group daybed ahead for infinity pool sunset beats.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-2-3-2dcd",
+            "time_slot": "02:45 PM - 05:30 PM",
+            "period": "afternoon",
+            "title": "Ubud Monkey Forest Sanctuary & Art Market Bargaining",
+            "category": "sightseeing",
+            "description": "Ubud Monkey Forest Sanctuary & Art Market Bargaining in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Ubud Monkey Forest Sanctuary & Art Market Bargaining, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.519,
+              "lng": 115.263
+            },
+            "estimated_cost": 7.0,
+            "currency": "USD",
+            "insider_tip": "Secure loose sunglasses and phones; keep bananas tucked away.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-2-4-5e12",
+            "time_slot": "07:00 PM - 09:30 PM",
+            "period": "evening",
+            "title": "Sunrise Quad Bike & Mount Batur Volcano Trek",
+            "category": "adventure",
+            "description": "Sunrise Quad Bike & Mount Batur Volcano Trek in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Sunrise Quad Bike & Mount Batur Volcano Trek, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.2424,
+              "lng": 115.3756
+            },
+            "estimated_cost": 45.0,
+            "currency": "USD",
+            "insider_tip": "Witness steam vents cooking eggs at summit with group breakfast.",
+            "duration_mins": 120,
+            "is_booked": false
+          }
+        ],
+        "day_budget_estimate": 107.0,
+        "transit_advice": "Hire a private air-conditioned van with local driver for the group (approx $45/day total), split effortlessly among all travelers."
+      },
+      {
+        "day_number": 3,
+        "date": "2026-11-17",
+        "theme": "Day 3: Adventure & Scenic Horizons",
+        "summary": "Optimized schedule balancing adventure pacing with curated dining, sightseeing, and minimal transit friction.",
+        "activities": [
+          {
+            "id": "act-3-1-186d",
+            "time_slot": "09:00 AM - 11:30 AM",
+            "period": "morning",
+            "title": "Tegalalang Rice Terraces & Giant Valley Swing",
+            "category": "nature",
+            "description": "Tegalalang Rice Terraces & Giant Valley Swing in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Tegalalang Rice Terraces & Giant Valley Swing, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.4348,
+              "lng": 115.2798
+            },
+            "estimated_cost": 15.0,
+            "currency": "USD",
+            "insider_tip": "Great group drone shots among emerald cascading hills.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-3-2-8e3a",
+            "time_slot": "12:00 PM - 02:00 PM",
+            "period": "afternoon",
+            "title": "Ayung River White Water Rafting Experience",
+            "category": "adventure",
+            "description": "Ayung River White Water Rafting Experience in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Ayung River White Water Rafting Experience, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.487,
+              "lng": 115.234
+            },
+            "estimated_cost": 35.0,
+            "currency": "USD",
+            "insider_tip": "12km rapids navigate past hidden waterfalls and Hindu rock carvings.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-3-3-d97e",
+            "time_slot": "02:45 PM - 05:30 PM",
+            "period": "afternoon",
+            "title": "Tirta Empul Holy Spring Cleansing Ritual",
+            "category": "culture",
+            "description": "Tirta Empul Holy Spring Cleansing Ritual in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Tirta Empul Holy Spring Cleansing Ritual, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.415,
+              "lng": 115.315
+            },
+            "estimated_cost": 5.0,
+            "currency": "USD",
+            "insider_tip": "Rent sarongs on-site; respect temple guides during the purification shower.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-3-4-045a",
+            "time_slot": "07:00 PM - 09:30 PM",
+            "period": "evening",
+            "title": "Sunset Seafood Feast on Jimbaran Bay Sands",
+            "category": "dining",
+            "description": "Sunset Seafood Feast on Jimbaran Bay Sands in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Sunset Seafood Feast on Jimbaran Bay Sands, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.775,
+              "lng": 115.168
+            },
+            "estimated_cost": 25.0,
+            "currency": "USD",
+            "insider_tip": "Order grilled red snapper with spicy sambal matah right at the water's edge.",
+            "duration_mins": 120,
+            "is_booked": false
+          }
+        ],
+        "day_budget_estimate": 80.0,
+        "transit_advice": "Hire a private air-conditioned van with local driver for the group (approx $45/day total), split effortlessly among all travelers."
+      },
+      {
+        "day_number": 4,
+        "date": "2026-11-18",
+        "theme": "Day 4: Adventure & Scenic Horizons",
+        "summary": "Optimized schedule balancing adventure pacing with curated dining, sightseeing, and minimal transit friction.",
+        "activities": [
+          {
+            "id": "act-4-1-9789",
+            "time_slot": "09:00 AM - 11:30 AM",
+            "period": "morning",
+            "title": "Canggu & Uluwatu Cliffside Beach Club Experience",
+            "category": "leisure",
+            "description": "Canggu & Uluwatu Cliffside Beach Club Experience in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Canggu & Uluwatu Cliffside Beach Club Experience, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.829,
+              "lng": 115.084
+            },
+            "estimated_cost": 30.0,
+            "currency": "USD",
+            "insider_tip": "Reserve a group daybed ahead for infinity pool sunset beats.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-4-2-a6ee",
+            "time_slot": "12:00 PM - 02:00 PM",
+            "period": "afternoon",
+            "title": "Ubud Monkey Forest Sanctuary & Art Market Bargaining",
+            "category": "sightseeing",
+            "description": "Ubud Monkey Forest Sanctuary & Art Market Bargaining in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Ubud Monkey Forest Sanctuary & Art Market Bargaining, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.519,
+              "lng": 115.263
+            },
+            "estimated_cost": 7.0,
+            "currency": "USD",
+            "insider_tip": "Secure loose sunglasses and phones; keep bananas tucked away.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-4-3-3653",
+            "time_slot": "02:45 PM - 05:30 PM",
+            "period": "afternoon",
+            "title": "Sunrise Quad Bike & Mount Batur Volcano Trek",
+            "category": "adventure",
+            "description": "Sunrise Quad Bike & Mount Batur Volcano Trek in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Sunrise Quad Bike & Mount Batur Volcano Trek, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.2424,
+              "lng": 115.3756
+            },
+            "estimated_cost": 45.0,
+            "currency": "USD",
+            "insider_tip": "Witness steam vents cooking eggs at summit with group breakfast.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-4-4-597a",
+            "time_slot": "07:00 PM - 09:30 PM",
+            "period": "evening",
+            "title": "Tegalalang Rice Terraces & Giant Valley Swing",
+            "category": "nature",
+            "description": "Tegalalang Rice Terraces & Giant Valley Swing in Bali, Indonesia. Tailored for group travelers seeking a adventure rhythm.",
+            "location_name": "Tegalalang Rice Terraces & Giant Valley Swing, Bali, Indonesia",
+            "coordinates": {
+              "lat": -8.4348,
+              "lng": 115.2798
+            },
+            "estimated_cost": 15.0,
+            "currency": "USD",
+            "insider_tip": "Great group drone shots among emerald cascading hills.",
+            "duration_mins": 120,
+            "is_booked": false
+          }
+        ],
+        "day_budget_estimate": 97.0,
+        "transit_advice": "Hire a private air-conditioned van with local driver for the group (approx $45/day total), split effortlessly among all travelers."
+      }
+    ],
+    "cost_breakdown": {
+      "accommodations": 1920.0,
+      "activities_and_tickets": 1920.0,
+      "food_and_dining": 1300.0,
+      "local_transit": 360.0,
+      "contingency": 288.32,
+      "total_estimated": 4252.32,
+      "currency": "USD"
+    },
+    "packing_list": [
+      "Quick-dry activewear & water shoes",
+      "Mosquito repellent with DEET",
+      "Waterproof dry bag for rafting",
+      "Power bank with universal adapter"
+    ],
+    "local_tips": [
+      "Early mornings (before 09:30 AM) offer peaceful sightseeing with optimal photographic lighting.",
+      "Keep digital offline map downloads handy to navigate alleys effortlessly.",
+      "Tipping and dining customs: Check whether service charge (coperto/service compris) is included on bills.",
+      "Pack comfortable walking shoes as the best hidden gems in Bali, Indonesia are nestled along pedestrian-only walkways."
+    ],
+    "weather_forecast_note": "Mild to pleasant conditions expected in Bali, Indonesia. Carry light breathable layers with an evening jacket.",
+    "created_at": "2026-10-24T11:15:49.949891Z",
+    "updated_at": "2026-10-24T11:15:49.951243Z",
+    "share_slug": "2357ac9a"
+  },
+  {
+    "id": "scenario-2-couple-amalfi",
+    "title": "Romantic Escape to Amalfi Coast",
+    "destination": "Amalfi Coast, Italy",
+    "tagline": "Cliffside Romance, Limoncello Groves & Mediterranean Sunsets",
+    "overview": "A romantic, tailored escape to Amalfi Coast, Italy focusing on scenic viewpoints, intimate dining, relaxed pacing, and unforgettable shared experiences away from cookie-cutter tourist crowds.",
+    "hero_image_keyword": "amalfi coast italy",
+    "hero_gradient": "linear-gradient(135deg, #0052D4 0%, #4364F7 50%, #6FB1FC 100%)",
+    "traveler_type": "couple",
+    "group_size": 2,
+    "travel_style": "romantic",
+    "budget_tier": "luxury",
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-18",
+    "duration_days": 5,
+    "currency": "USD",
+    "days": [
+      {
+        "day_number": 1,
+        "date": "2026-11-15",
+        "theme": "Day 1: Arrival & Iconic Highlights",
+        "summary": "Optimized schedule balancing romantic pacing with curated dining, sightseeing, and minimal transit friction.",
+        "activities": [
+          {
+            "id": "act-1-1-1bb3",
+            "time_slot": "09:00 AM - 11:30 AM",
+            "period": "morning",
+            "title": "Scenic Positano Cliffside Village & Marina Grande",
+            "category": "sightseeing",
+            "description": "Scenic Positano Cliffside Village & Marina Grande in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Scenic Positano Cliffside Village & Marina Grande, Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.6281,
+              "lng": 14.485
+            },
+            "estimated_cost": 0.0,
+            "currency": "USD",
+            "insider_tip": "Wear soft linen and sandals; Positano has hundreds of picturesque staircases.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-1-2-16d8",
+            "time_slot": "12:00 PM - 02:00 PM",
+            "period": "afternoon",
+            "title": "Private Sunset Gozzo Boat Cruise along Faraglioni",
+            "category": "adventure",
+            "description": "Private Sunset Gozzo Boat Cruise along Faraglioni in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Private Sunset Gozzo Boat Cruise along Faraglioni, Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.627,
+              "lng": 14.488
+            },
+            "estimated_cost": 228.0,
+            "currency": "USD",
+            "insider_tip": "Includes chilled prosecco and snorkeling into secret sea caves.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-1-3-14d8",
+            "time_slot": "02:45 PM - 05:30 PM",
+            "period": "afternoon",
+            "title": "Candlelight Dinner at Ristorante La Sponda",
+            "category": "dining",
+            "description": "Candlelight Dinner at Ristorante La Sponda in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Candlelight Dinner, Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.629,
+              "lng": 14.486
+            },
+            "estimated_cost": 264.0,
+            "currency": "USD",
+            "insider_tip": "Lit by 400 candles nightly with classical mandolin duo accompaniment.",
+            "duration_mins": 90,
+            "is_booked": false
+          }
+        ],
+        "day_budget_estimate": 492.0,
+        "transit_advice": "Prefer scheduled passenger ferries (Travelmar) over crowded buses for stunning sea views without winding road nausea."
+      },
+      {
+        "day_number": 2,
+        "date": "2026-11-16",
+        "theme": "Day 2: Immersion & Hidden Flavors",
+        "summary": "Optimized schedule balancing romantic pacing with curated dining, sightseeing, and minimal transit friction.",
+        "activities": [
+          {
+            "id": "act-2-1-ef6d",
+            "time_slot": "09:00 AM - 11:30 AM",
+            "period": "morning",
+            "title": "Path of the Gods (Sentiero degli Dei) Cliff Walk",
+            "category": "nature",
+            "description": "Path of the Gods (Sentiero degli Dei) Cliff Walk in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Path of the Gods (Sentiero degli Dei) Cliff Walk, Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.621,
+              "lng": 14.505
+            },
+            "estimated_cost": 0.0,
+            "currency": "USD",
+            "insider_tip": "Start from Bomerano downwards to Nocelle for effortless downhill panoramic vistas.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-2-2-2bf9",
+            "time_slot": "12:00 PM - 02:00 PM",
+            "period": "afternoon",
+            "title": "Ravello Villa Cimbrone & Infinity Terrace (Terrazza dell'Infinito)",
+            "category": "culture",
+            "description": "Ravello Villa Cimbrone & Infinity Terrace (Terrazza dell'Infinito) in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Ravello Villa Cimbrone & Infinity Terrace (Terrazza dell'Infinito), Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.647,
+              "lng": 14.611
+            },
+            "estimated_cost": 24.0,
+            "currency": "USD",
+            "insider_tip": "World-famous marble busts suspended between cobalt sea and sky.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-2-3-0738",
+            "time_slot": "02:45 PM - 05:30 PM",
+            "period": "afternoon",
+            "title": "Artisanal Limoncello Tasting at Lemon Farm Valle dei Mulini",
+            "category": "dining",
+            "description": "Artisanal Limoncello Tasting at Lemon Farm Valle dei Mulini in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Artisanal Limoncello Tasting, Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.635,
+              "lng": 14.601
+            },
+            "estimated_cost": 52.8,
+            "currency": "USD",
+            "insider_tip": "Taste hand-shaved granita made from sfusato amalfitano lemons.",
+            "duration_mins": 120,
+            "is_booked": false
+          }
+        ],
+        "day_budget_estimate": 76.8,
+        "transit_advice": "Prefer scheduled passenger ferries (Travelmar) over crowded buses for stunning sea views without winding road nausea."
+      },
+      {
+        "day_number": 3,
+        "date": "2026-11-17",
+        "theme": "Day 3: Adventure & Scenic Horizons",
+        "summary": "Optimized schedule balancing romantic pacing with curated dining, sightseeing, and minimal transit friction.",
+        "activities": [
+          {
+            "id": "act-3-1-7635",
+            "time_slot": "09:00 AM - 11:30 AM",
+            "period": "morning",
+            "title": "Amalfi Cathedral (Duomo di Sant'Andrea) & Cloister of Paradise",
+            "category": "sightseeing",
+            "description": "Amalfi Cathedral (Duomo di Sant'Andrea) & Cloister of Paradise in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Amalfi Cathedral (Duomo di Sant'Andrea) & Cloister of Paradise, Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.6342,
+              "lng": 14.6028
+            },
+            "estimated_cost": 12.0,
+            "currency": "USD",
+            "insider_tip": "Marvel at the Arab-Norman mosaic facade towering over Piazza del Duomo.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-3-2-2858",
+            "time_slot": "12:00 PM - 02:00 PM",
+            "period": "afternoon",
+            "title": "Scenic Positano Cliffside Village & Marina Grande",
+            "category": "sightseeing",
+            "description": "Scenic Positano Cliffside Village & Marina Grande in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Scenic Positano Cliffside Village & Marina Grande, Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.6281,
+              "lng": 14.485
+            },
+            "estimated_cost": 0.0,
+            "currency": "USD",
+            "insider_tip": "Wear soft linen and sandals; Positano has hundreds of picturesque staircases.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-3-3-b352",
+            "time_slot": "02:45 PM - 05:30 PM",
+            "period": "afternoon",
+            "title": "Private Sunset Gozzo Boat Cruise along Faraglioni",
+            "category": "adventure",
+            "description": "Private Sunset Gozzo Boat Cruise along Faraglioni in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Private Sunset Gozzo Boat Cruise along Faraglioni, Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.627,
+              "lng": 14.488
+            },
+            "estimated_cost": 228.0,
+            "currency": "USD",
+            "insider_tip": "Includes chilled prosecco and snorkeling into secret sea caves.",
+            "duration_mins": 120,
+            "is_booked": false
+          }
+        ],
+        "day_budget_estimate": 240.0,
+        "transit_advice": "Prefer scheduled passenger ferries (Travelmar) over crowded buses for stunning sea views without winding road nausea."
+      },
+      {
+        "day_number": 4,
+        "date": "2026-11-18",
+        "theme": "Day 4: Adventure & Scenic Horizons",
+        "summary": "Optimized schedule balancing romantic pacing with curated dining, sightseeing, and minimal transit friction.",
+        "activities": [
+          {
+            "id": "act-4-1-76bd",
+            "time_slot": "09:00 AM - 11:30 AM",
+            "period": "morning",
+            "title": "Candlelight Dinner at Ristorante La Sponda",
+            "category": "dining",
+            "description": "Candlelight Dinner at Ristorante La Sponda in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Candlelight Dinner, Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.629,
+              "lng": 14.486
+            },
+            "estimated_cost": 264.0,
+            "currency": "USD",
+            "insider_tip": "Lit by 400 candles nightly with classical mandolin duo accompaniment.",
+            "duration_mins": 90,
+            "is_booked": false
+          },
+          {
+            "id": "act-4-2-4dd2",
+            "time_slot": "12:00 PM - 02:00 PM",
+            "period": "afternoon",
+            "title": "Path of the Gods (Sentiero degli Dei) Cliff Walk",
+            "category": "nature",
+            "description": "Path of the Gods (Sentiero degli Dei) Cliff Walk in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Path of the Gods (Sentiero degli Dei) Cliff Walk, Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.621,
+              "lng": 14.505
+            },
+            "estimated_cost": 0.0,
+            "currency": "USD",
+            "insider_tip": "Start from Bomerano downwards to Nocelle for effortless downhill panoramic vistas.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-4-3-9c2d",
+            "time_slot": "02:45 PM - 05:30 PM",
+            "period": "afternoon",
+            "title": "Ravello Villa Cimbrone & Infinity Terrace (Terrazza dell'Infinito)",
+            "category": "culture",
+            "description": "Ravello Villa Cimbrone & Infinity Terrace (Terrazza dell'Infinito) in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Ravello Villa Cimbrone & Infinity Terrace (Terrazza dell'Infinito), Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.647,
+              "lng": 14.611
+            },
+            "estimated_cost": 24.0,
+            "currency": "USD",
+            "insider_tip": "World-famous marble busts suspended between cobalt sea and sky.",
+            "duration_mins": 120,
+            "is_booked": false
+          }
+        ],
+        "day_budget_estimate": 288.0,
+        "transit_advice": "Prefer scheduled passenger ferries (Travelmar) over crowded buses for stunning sea views without winding road nausea."
+      },
+      {
+        "day_number": 5,
+        "date": "2026-11-19",
+        "theme": "Day 5: Adventure & Scenic Horizons",
+        "summary": "Optimized schedule balancing romantic pacing with curated dining, sightseeing, and minimal transit friction.",
+        "activities": [
+          {
+            "id": "act-5-1-20d0",
+            "time_slot": "09:00 AM - 11:30 AM",
+            "period": "morning",
+            "title": "Artisanal Limoncello Tasting at Lemon Farm Valle dei Mulini",
+            "category": "dining",
+            "description": "Artisanal Limoncello Tasting at Lemon Farm Valle dei Mulini in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Artisanal Limoncello Tasting, Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.635,
+              "lng": 14.601
+            },
+            "estimated_cost": 52.8,
+            "currency": "USD",
+            "insider_tip": "Taste hand-shaved granita made from sfusato amalfitano lemons.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-5-2-350d",
+            "time_slot": "12:00 PM - 02:00 PM",
+            "period": "afternoon",
+            "title": "Amalfi Cathedral (Duomo di Sant'Andrea) & Cloister of Paradise",
+            "category": "sightseeing",
+            "description": "Amalfi Cathedral (Duomo di Sant'Andrea) & Cloister of Paradise in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Amalfi Cathedral (Duomo di Sant'Andrea) & Cloister of Paradise, Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.6342,
+              "lng": 14.6028
+            },
+            "estimated_cost": 12.0,
+            "currency": "USD",
+            "insider_tip": "Marvel at the Arab-Norman mosaic facade towering over Piazza del Duomo.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-5-3-f54f",
+            "time_slot": "02:45 PM - 05:30 PM",
+            "period": "afternoon",
+            "title": "Scenic Positano Cliffside Village & Marina Grande",
+            "category": "sightseeing",
+            "description": "Scenic Positano Cliffside Village & Marina Grande in Amalfi Coast, Italy. Tailored for couple travelers seeking a romantic rhythm.",
+            "location_name": "Scenic Positano Cliffside Village & Marina Grande, Amalfi Coast, Italy",
+            "coordinates": {
+              "lat": 40.6281,
+              "lng": 14.485
+            },
+            "estimated_cost": 0.0,
+            "currency": "USD",
+            "insider_tip": "Wear soft linen and sandals; Positano has hundreds of picturesque staircases.",
+            "duration_mins": 120,
+            "is_booked": false
+          }
+        ],
+        "day_budget_estimate": 64.8,
+        "transit_advice": "Prefer scheduled passenger ferries (Travelmar) over crowded buses for stunning sea views without winding road nausea."
+      }
+    ],
+    "cost_breakdown": {
+      "accommodations": 1925.0,
+      "activities_and_tickets": 2323.2,
+      "food_and_dining": 1200.0,
+      "local_transit": 432.0,
+      "contingency": 342.93,
+      "total_estimated": 5061.53,
+      "currency": "USD"
+    },
+    "packing_list": [
+      "Stylish sunglasses & wide-brim sunhat",
+      "High-SPF reef-safe sunscreen",
+      "Smart evening resort-wear",
+      "Dramamine if prone to curvy coastal drives"
+    ],
+    "local_tips": [
+      "Early mornings (before 09:30 AM) offer peaceful sightseeing with optimal photographic lighting.",
+      "Keep digital offline map downloads handy to navigate alleys effortlessly.",
+      "Tipping and dining customs: Check whether service charge (coperto/service compris) is included on bills.",
+      "Pack comfortable walking shoes as the best hidden gems in Amalfi Coast, Italy are nestled along pedestrian-only walkways."
+    ],
+    "weather_forecast_note": "Mild to pleasant conditions expected in Amalfi Coast, Italy. Carry light breathable layers with an evening jacket.",
+    "created_at": "2026-10-24T11:15:49.944479Z",
+    "updated_at": "2026-10-24T11:15:49.945871Z",
+    "share_slug": "1a325912"
+  },
+  {
+    "id": "scenario-1-solo-kyoto",
+    "title": "Weekend Solo Getaway to Kyoto",
+    "destination": "Kyoto, Japan",
+    "tagline": "Optimized, Stress-Free Weekend in the Cultural Heart of Japan",
+    "overview": "A high-efficiency, stress-free solo getaway to Kyoto, Japan. Thoughtfully structured with fast routes, walkability, nearby highlights, and budget-friendly foodie gems so you can immerse yourself without the headache of cross-checking multiple apps.",
+    "hero_image_keyword": "kyoto japan",
+    "hero_gradient": "linear-gradient(135deg, #134e5e 0%, #71b280 100%)",
+    "traveler_type": "solo",
+    "group_size": 1,
+    "travel_style": "fast-paced",
+    "budget_tier": "budget",
+    "start_date": "2026-11-15",
+    "end_date": "2026-11-18",
+    "duration_days": 3,
+    "currency": "USD",
+    "days": [
+      {
+        "day_number": 1,
+        "date": "2026-11-15",
+        "theme": "Day 1: Curated Alternative Exploration (Fast-Paced)",
+        "summary": "Newly regenerated itinerary for Day 1 focusing on fresh sights and optimized timing.",
+        "activities": [
+          {
+            "id": "act-regen-1-1-f0fc",
+            "time_slot": "09:30 AM - 12:00 PM",
+            "period": "morning",
+            "title": "[Alternative] Pontocho Alley Izakaya Crawl",
+            "category": "dining",
+            "description": "Freshly regenerated option: Pontocho Alley Izakaya Crawl in Kyoto, Japan.",
+            "location_name": "Pontocho Alley Izakaya Crawl, Kyoto, Japan",
+            "coordinates": {
+              "lat": 35.0065,
+              "lng": 135.7714
+            },
+            "estimated_cost": 18.2,
+            "currency": "USD",
+            "insider_tip": "Sample local yakitori skewers and crisp Kyoto craft sakes.",
+            "duration_mins": 90,
+            "is_booked": false
+          },
+          {
+            "id": "act-regen-1-2-fa67",
+            "time_slot": "12:30 PM - 02:00 PM",
+            "period": "afternoon",
+            "title": "[Alternative] Traditional Kaiseki Multi-Course Dinner",
+            "category": "dining",
+            "description": "Freshly regenerated option: Traditional Kaiseki Multi-Course Dinner in Kyoto, Japan.",
+            "location_name": "Traditional Kaiseki Multi-Course Dinner, Kyoto, Japan",
+            "coordinates": {
+              "lat": 35.009,
+              "lng": 135.771
+            },
+            "estimated_cost": 42.2,
+            "currency": "USD",
+            "insider_tip": "Book riverside tatami seating along the Kamogawa River.",
+            "duration_mins": 90,
+            "is_booked": false
+          },
+          {
+            "id": "act-regen-1-3-783c",
+            "time_slot": "03:00 PM - 05:30 PM",
+            "period": "afternoon",
+            "title": "[Alternative] Gion Evening Geisha District & Lantern Walk",
+            "category": "culture",
+            "description": "Freshly regenerated option: Gion Evening Geisha District & Lantern Walk in Kyoto, Japan.",
+            "location_name": "Gion Evening Geisha District & Lantern Walk, Kyoto, Japan",
+            "coordinates": {
+              "lat": 35.0037,
+              "lng": 135.777
+            },
+            "estimated_cost": 0,
+            "currency": "USD",
+            "insider_tip": "Walk quietly along Shirakawa Canal around sunset for timeless vibes.",
+            "duration_mins": 90,
+            "is_booked": false
+          },
+          {
+            "id": "act-regen-1-4-b042",
+            "time_slot": "07:30 PM - 10:00 PM",
+            "period": "evening",
+            "title": "[Alternative] Kiyomizu-dera Wooden Stage & Otowa Waterfall",
+            "category": "sightseeing",
+            "description": "Freshly regenerated option: Kiyomizu-dera Wooden Stage & Otowa Waterfall in Kyoto, Japan.",
+            "location_name": "Kiyomizu-dera Wooden Stage & Otowa Waterfall, Kyoto, Japan",
+            "coordinates": {
+              "lat": 34.9949,
+              "lng": 135.785
+            },
+            "estimated_cost": 2.6,
+            "currency": "USD",
+            "insider_tip": "Drink from one of three streams for health, longevity, or success in studies.",
+            "duration_mins": 90,
+            "is_booked": false
+          },
+          {
+            "title": "Evening Matcha Tasting",
+            "time_slot": "08:00 PM - 09:30 PM",
+            "period": "morning",
+            "category": "sightseeing",
+            "location_name": "Gion District, Kyoto",
+            "description": "Traditional evening matcha ceremony and artisanal green tea sweets.",
+            "estimated_cost": 15,
+            "insider_tip": "Ask for ceremonial grade Uji matcha.",
+            "duration_mins": 90,
+            "id": "act-custom-1792841274955"
+          }
+        ],
+        "day_budget_estimate": 63,
+        "transit_advice": "Use city rideshare or central light rail for quick transitions."
+      },
+      {
+        "day_number": 2,
+        "date": "2026-11-16",
+        "theme": "Day 2: Immersion & Hidden Flavors",
+        "summary": "Optimized schedule balancing fast-paced pacing with curated dining, sightseeing, and minimal transit friction.",
+        "activities": [
+          {
+            "id": "act-2-1-38b9",
+            "time_slot": "09:00 AM - 11:30 AM",
+            "period": "morning",
+            "title": "Kinkaku-ji (The Golden Pavilion)",
+            "category": "sightseeing",
+            "description": "Kinkaku-ji (The Golden Pavilion) in Kyoto, Japan. Tailored for solo travelers seeking a fast-paced rhythm.",
+            "location_name": "Kinkaku-ji (The Golden Pavilion), Kyoto, Japan",
+            "coordinates": {
+              "lat": 35.0394,
+              "lng": 135.7292
+            },
+            "estimated_cost": 2.6,
+            "currency": "USD",
+            "insider_tip": "Catch the reflection on Mirror Lake when sun hits the gold leaf.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-2-2-136f",
+            "time_slot": "12:00 PM - 02:00 PM",
+            "period": "afternoon",
+            "title": "Traditional Kaiseki Multi-Course Dinner",
+            "category": "dining",
+            "description": "Traditional Kaiseki Multi-Course Dinner in Kyoto, Japan. Tailored for solo travelers seeking a fast-paced rhythm.",
+            "location_name": "Traditional Kaiseki Multi-Course Dinner, Kyoto, Japan",
+            "coordinates": {
+              "lat": 35.009,
+              "lng": 135.771
+            },
+            "estimated_cost": 42.2,
+            "currency": "USD",
+            "insider_tip": "Book riverside tatami seating along the Kamogawa River.",
+            "duration_mins": 90,
+            "is_booked": false
+          },
+          {
+            "id": "act-2-3-a8ee",
+            "time_slot": "02:45 PM - 05:30 PM",
+            "period": "afternoon",
+            "title": "Kiyomizu-dera Wooden Stage & Otowa Waterfall",
+            "category": "sightseeing",
+            "description": "Kiyomizu-dera Wooden Stage & Otowa Waterfall in Kyoto, Japan. Tailored for solo travelers seeking a fast-paced rhythm.",
+            "location_name": "Kiyomizu-dera Wooden Stage & Otowa Waterfall, Kyoto, Japan",
+            "coordinates": {
+              "lat": 34.9949,
+              "lng": 135.785
+            },
+            "estimated_cost": 2.6,
+            "currency": "USD",
+            "insider_tip": "Drink from one of three streams for health, longevity, or success in studies.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-2-4-320b",
+            "time_slot": "07:00 PM - 09:30 PM",
+            "period": "evening",
+            "title": "Pontocho Alley Izakaya Crawl",
+            "category": "dining",
+            "description": "Pontocho Alley Izakaya Crawl in Kyoto, Japan. Tailored for solo travelers seeking a fast-paced rhythm.",
+            "location_name": "Pontocho Alley Izakaya Crawl, Kyoto, Japan",
+            "coordinates": {
+              "lat": 35.0065,
+              "lng": 135.7714
+            },
+            "estimated_cost": 18.2,
+            "currency": "USD",
+            "insider_tip": "Sample local yakitori skewers and crisp Kyoto craft sakes.",
+            "duration_mins": 120,
+            "is_booked": false
+          }
+        ],
+        "day_budget_estimate": 65.6,
+        "transit_advice": "Acquire an IC card (ICOCA/Suica) or Kyoto 1-Day Subway & Bus Pass for frictionless hopping between wards."
+      },
+      {
+        "day_number": 3,
+        "date": "2026-11-17",
+        "theme": "Day 3: Adventure & Scenic Horizons",
+        "summary": "Optimized schedule balancing fast-paced pacing with curated dining, sightseeing, and minimal transit friction.",
+        "activities": [
+          {
+            "id": "act-3-1-8bd1",
+            "time_slot": "09:00 AM - 11:30 AM",
+            "period": "morning",
+            "title": "Fushimi Inari Shrine & 10,000 Torii Gates",
+            "category": "sightseeing",
+            "description": "Fushimi Inari Shrine & 10,000 Torii Gates in Kyoto, Japan. Tailored for solo travelers seeking a fast-paced rhythm.",
+            "location_name": "Fushimi Inari Shrine & 10,000 Torii Gates, Kyoto, Japan",
+            "coordinates": {
+              "lat": 34.9671,
+              "lng": 135.7727
+            },
+            "estimated_cost": 0,
+            "currency": "USD",
+            "insider_tip": "Hike early at 7:30 AM to beat the crowd and get serene photos.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-3-2-521b",
+            "time_slot": "12:00 PM - 02:00 PM",
+            "period": "afternoon",
+            "title": "Nishiki Market Street Food Safari",
+            "category": "dining",
+            "description": "Nishiki Market Street Food Safari in Kyoto, Japan. Tailored for solo travelers seeking a fast-paced rhythm.",
+            "location_name": "Nishiki Market Street Food Safari, Kyoto, Japan",
+            "coordinates": {
+              "lat": 35.005,
+              "lng": 135.765
+            },
+            "estimated_cost": 11.7,
+            "currency": "USD",
+            "insider_tip": "Try grilled tako tamago (baby octopus with quail egg) and matcha warabi mochi.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-3-3-1890",
+            "time_slot": "02:45 PM - 05:30 PM",
+            "period": "afternoon",
+            "title": "Arashiyama Bamboo Grove & Tenryu-ji Temple",
+            "category": "nature",
+            "description": "Arashiyama Bamboo Grove & Tenryu-ji Temple in Kyoto, Japan. Tailored for solo travelers seeking a fast-paced rhythm.",
+            "location_name": "Arashiyama Bamboo Grove & Tenryu-ji Temple, Kyoto, Japan",
+            "coordinates": {
+              "lat": 35.0158,
+              "lng": 135.6713
+            },
+            "estimated_cost": 3.9,
+            "currency": "USD",
+            "insider_tip": "Rent a city bicycle at Saga-Arashiyama station for riverside paths.",
+            "duration_mins": 120,
+            "is_booked": false
+          },
+          {
+            "id": "act-3-4-dc3f",
+            "time_slot": "07:00 PM - 09:30 PM",
+            "period": "evening",
+            "title": "Gion Evening Geisha District & Lantern Walk",
+            "category": "culture",
+            "description": "Gion Evening Geisha District & Lantern Walk in Kyoto, Japan. Tailored for solo travelers seeking a fast-paced rhythm.",
+            "location_name": "Gion Evening Geisha District & Lantern Walk, Kyoto, Japan",
+            "coordinates": {
+              "lat": 35.0037,
+              "lng": 135.777
+            },
+            "estimated_cost": 0,
+            "currency": "USD",
+            "insider_tip": "Walk quietly along Shirakawa Canal around sunset for timeless vibes.",
+            "duration_mins": 120,
+            "is_booked": false
+          }
+        ],
+        "day_budget_estimate": 15.6,
+        "transit_advice": "Acquire an IC card (ICOCA/Suica) or Kyoto 1-Day Subway & Bus Pass for frictionless hopping between wards."
+      }
+    ],
+    "cost_breakdown": {
+      "accommodations": 240,
+      "activities_and_tickets": 96.8,
+      "food_and_dining": 90,
+      "local_transit": 35.1,
+      "contingency": 34.14,
+      "total_estimated": 496.04,
+      "currency": "USD"
+    },
+    "packing_list": [
+      "Comfortable slip-on walking shoes (for temple shoes-off policy)",
+      "Coin pouch for shrine fortune boxes",
+      "Light layers & rain umbrella"
+    ],
+    "local_tips": [
+      "Early mornings (before 09:30 AM) offer peaceful sightseeing with optimal photographic lighting.",
+      "Keep digital offline map downloads handy to navigate alleys effortlessly.",
+      "Tipping and dining customs: Check whether service charge (coperto/service compris) is included on bills.",
+      "Pack comfortable walking shoes as the best hidden gems in Kyoto, Japan are nestled along pedestrian-only walkways."
+    ],
+    "weather_forecast_note": "Mild to pleasant conditions expected in Kyoto, Japan. Carry light breathable layers with an evening jacket.",
+    "created_at": "2026-10-24T11:15:49.939000Z",
+    "updated_at": "2026-10-24T11:27:54.975220Z",
+    "share_slug": "d9266ad0"
+  }
+]
